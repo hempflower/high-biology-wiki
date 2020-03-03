@@ -6,5 +6,10 @@ module.exports = {
         sidebar: 'auto',
         displayAllHeaders: true,
         smoothScroll: true,
+        repo: 'https://github.com/hempflower/high-biology-wiki',
+        repoLabel: '查看源码',
+        editLinks: true,
+        editLinkText: '帮助此页面变得更好！'
+
     }
 }
