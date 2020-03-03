@@ -11,6 +11,7 @@ module.exports = {
         repo: 'https://github.com/hempflower/high-biology-wiki',
         repoLabel: '查看源码',
         editLinks: true,
+        docsDir: 'docs',
         editLinkText: '帮助此页面变得更好！',
         lastUpdated: '最后更新于：',
 
